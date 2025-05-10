@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python,macos,windows
 
+unzipped_data/
+
 ### macOS ###
 # General
 .DS_Store
@@ -8,7 +10,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*

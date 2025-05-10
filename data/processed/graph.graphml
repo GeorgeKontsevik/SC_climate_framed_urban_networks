@@ -1,0 +1,3313 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d26" for="edge" attr.name="label" attr.type="string" />
+  <key id="d25" for="edge" attr.name="weight" attr.type="string" />
+  <key id="d24" for="node" attr.name="season" attr.type="string" />
+  <key id="d23" for="node" attr.name="temperature" attr.type="string" />
+  <key id="d22" for="node" attr.name="y" attr.type="string" />
+  <key id="d21" for="node" attr.name="x" attr.type="string" />
+  <key id="d20" for="node" attr.name="geometry" attr.type="string" />
+  <key id="d19" for="node" attr.name="mfc" attr.type="string" />
+  <key id="d18" for="node" attr.name="gas" attr.type="string" />
+  <key id="d17" for="node" attr.name="pvz" attr.type="string" />
+  <key id="d16" for="node" attr.name="pristan" attr.type="string" />
+  <key id="d15" for="node" attr.name="shop" attr.type="string" />
+  <key id="d14" for="node" attr.name="airport" attr.type="string" />
+  <key id="d13" for="node" attr.name="port" attr.type="string" />
+  <key id="d12" for="node" attr.name="health" attr.type="string" />
+  <key id="d11" for="node" attr.name="atm" attr.type="string" />
+  <key id="d10" for="node" attr.name="culture" attr.type="string" />
+  <key id="d9" for="node" attr.name="library" attr.type="string" />
+  <key id="d8" for="node" attr.name="post" attr.type="string" />
+  <key id="d7" for="node" attr.name="kindergarten" attr.type="string" />
+  <key id="d6" for="node" attr.name="school" attr.type="string" />
+  <key id="d5" for="node" attr.name="district" attr.type="string" />
+  <key id="d4" for="node" attr.name="name" attr.type="string" />
+  <key id="d3" for="node" attr.name="population" attr.type="string" />
+  <key id="d2" for="node" attr.name="full_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="fid" attr.type="string" />
+  <key id="d0" for="graph" attr.name="crs" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="Андег">
+      <data key="d1">16</data>
+      <data key="d2">n1143734021</data>
+      <data key="d3">175</data>
+      <data key="d4">Андег</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (53.220583299999994 67.89124249999999)</data>
+      <data key="d21">53.220583299999994</data>
+      <data key="d22">67.89124249999999</data>
+      <data key="d23">    temperature
+0         -18.0
+1         -13.8
+2          -7.4
+3          -3.1
+4           4.3
+..          ...
+67          9.3
+68          6.9
+69          1.1
+70         -4.0
+71         -8.8
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Куя">
+      <data key="d1">17</data>
+      <data key="d2">n1147900378</data>
+      <data key="d3">86</data>
+      <data key="d4">Куя</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (53.2599235 67.77130789999998)</data>
+      <data key="d21">53.2599235</data>
+      <data key="d22">67.77130789999998</data>
+      <data key="d23">    temperature
+0         -18.0
+1         -13.8
+2          -7.4
+3          -3.1
+4           4.3
+..          ...
+67          9.3
+68          6.9
+69          1.1
+70         -4.0
+71         -8.8
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Нельмин-Нос">
+      <data key="d1">18</data>
+      <data key="d2">n1148645956</data>
+      <data key="d3">916</data>
+      <data key="d4">Нельмин-Нос</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">5</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (52.957530999999996 67.97980499999998)</data>
+      <data key="d21">52.957530999999996</data>
+      <data key="d22">67.97980499999998</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Архангельск">
+      <data key="d1">54</data>
+      <data key="d2">None</data>
+      <data key="d3">None</data>
+      <data key="d4">Архангельск</data>
+      <data key="d5">None</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">40</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">100</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (40.53974192744307 64.54338332057665)</data>
+      <data key="d21">40.53974192744307</data>
+      <data key="d22">64.54338332057665</data>
+      <data key="d23">    temperature
+0         -16.1
+1         -10.9
+2          -5.0
+3          -1.1
+4           7.9
+..          ...
+67         12.8
+68          8.4
+69          1.6
+70         -5.0
+71         -6.4
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Индига">
+      <data key="d1">30</data>
+      <data key="d2">n1731320627</data>
+      <data key="d3">632</data>
+      <data key="d4">Индига</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (49.02937299999999 67.65588399999999)</data>
+      <data key="d21">49.02937299999999</data>
+      <data key="d22">67.65588399999999</data>
+      <data key="d23">    temperature
+0         -16.5
+1         -13.5
+2          -6.9
+3          -2.9
+4           4.8
+..          ...
+67          9.9
+68          7.4
+69          2.1
+70         -1.8
+71         -6.5
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Мезень">
+      <data key="d1">51</data>
+      <data key="d2">None</data>
+      <data key="d3">None</data>
+      <data key="d4">Мезень</data>
+      <data key="d5">None</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">8</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (44.2440715001102 65.85093584395014)</data>
+      <data key="d21">44.2440715001102</data>
+      <data key="d22">65.85093584395014</data>
+      <data key="d23">    temperature
+0         -17.1
+1         -12.2
+2          -5.7
+3          -1.4
+4           7.4
+..          ...
+67         12.8
+68          8.4
+69          1.5
+70         -5.2
+71         -7.2
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Нарьян-Мар">
+      <data key="d1">52</data>
+      <data key="d2">None</data>
+      <data key="d3">None</data>
+      <data key="d4">Нарьян-Мар</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">10</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">60</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (52.997130074302206 67.63905525389401)</data>
+      <data key="d21">52.997130074302206</data>
+      <data key="d22">67.63905525389401</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Несь">
+      <data key="d1">14</data>
+      <data key="d2">n1067775092</data>
+      <data key="d3">1368</data>
+      <data key="d4">Несь</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">4</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (44.6787398 66.6008745)</data>
+      <data key="d21">44.6787398</data>
+      <data key="d22">66.6008745</data>
+      <data key="d23">    temperature
+0    -16.799999
+1    -12.200000
+2     -5.900000
+3     -1.800000
+4      6.500000
+..          ...
+67    12.000000
+68     8.100000
+69     1.700000
+70    -3.200000
+71    -6.700000
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Нижняя Пеша">
+      <data key="d1">31</data>
+      <data key="d2">n1743988646</data>
+      <data key="d3">718</data>
+      <data key="d4">Нижняя Пеша</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">3</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (47.76018059999999 66.7525156)</data>
+      <data key="d21">47.76018059999999</data>
+      <data key="d22">66.7525156</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Ома">
+      <data key="d1">22</data>
+      <data key="d2">n1157933679</data>
+      <data key="d3">763</data>
+      <data key="d4">Ома</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (46.4948017 66.6432267)</data>
+      <data key="d21">46.4948017</data>
+      <data key="d22">66.6432267</data>
+      <data key="d23">    temperature
+0         -17.1
+1         -12.4
+2          -6.0
+3          -2.1
+4           6.4
+..          ...
+67         11.9
+68          8.0
+69          1.5
+70         -3.9
+71         -7.0
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Харьягинский">
+      <data key="d1">45</data>
+      <data key="d2">n2545755753</data>
+      <data key="d3">None</data>
+      <data key="d4">Харьягинский</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">1</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (56.76091 67.216431)</data>
+      <data key="d21">56.76091</data>
+      <data key="d22">67.216431</data>
+      <data key="d23">    temperature
+0         -18.6
+1         -13.5
+2          -7.2
+3          -2.8
+4           4.7
+..          ...
+67         10.6
+68          7.2
+69          0.0
+70         -7.7
+71        -10.2
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71      winter
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Чижа">
+      <data key="d1">33</data>
+      <data key="d2">n1767860178</data>
+      <data key="d3">99</data>
+      <data key="d4">Чижа</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (44.38330899999999 67.0877564)</data>
+      <data key="d21">44.38330899999999</data>
+      <data key="d22">67.0877564</data>
+      <data key="d23">    temperature
+0    -16.799999
+1    -12.200000
+2     -5.900000
+3     -1.800000
+4      6.500000
+..          ...
+67    12.000000
+68     8.100000
+69     1.700000
+70    -3.200000
+71    -6.700000
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Шойна">
+      <data key="d1">36</data>
+      <data key="d2">n1773701595</data>
+      <data key="d3">300</data>
+      <data key="d4">Шойна</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (44.1529957 67.87834349999999)</data>
+      <data key="d21">44.1529957</data>
+      <data key="d22">67.87834349999999</data>
+      <data key="d23">    temperature
+0         -12.0
+1         -11.2
+2          -5.5
+3          -1.8
+4           5.5
+..          ...
+67         10.6
+68          7.8
+69          2.7
+70         -0.3
+71         -3.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Великовисочное">
+      <data key="d1">2</data>
+      <data key="d2">n457213574</data>
+      <data key="d3">544</data>
+      <data key="d4">Великовисочное</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">8</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (52.0273258 67.2559892)</data>
+      <data key="d21">52.0273258</data>
+      <data key="d22">67.2559892</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Каменка">
+      <data key="d1">6</data>
+      <data key="d2">n606607730</data>
+      <data key="d3">121</data>
+      <data key="d4">Каменка</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (51.883011 67.488083)</data>
+      <data key="d21">51.883011</data>
+      <data key="d22">67.488083</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Коткино">
+      <data key="d1">4</data>
+      <data key="d2">n606607717</data>
+      <data key="d3">372</data>
+      <data key="d4">Коткино</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">4</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (51.13837100000001 67.031357)</data>
+      <data key="d21">51.13837100000001</data>
+      <data key="d22">67.031357</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Лабожское">
+      <data key="d1">7</data>
+      <data key="d2">n606607734</data>
+      <data key="d3">250</data>
+      <data key="d4">Лабожское</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">3</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.09444270000001 67.3326475)</data>
+      <data key="d21">52.09444270000001</data>
+      <data key="d22">67.3326475</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Оксино">
+      <data key="d1">9</data>
+      <data key="d2">n606607744</data>
+      <data key="d3">339</data>
+      <data key="d4">Оксино</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">4</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (52.1841356 67.5831353)</data>
+      <data key="d21">52.1841356</data>
+      <data key="d22">67.5831353</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Пылемец">
+      <data key="d1">26</data>
+      <data key="d2">n1275737270</data>
+      <data key="d3">204</data>
+      <data key="d4">Пылемец</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">0</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.2589438 67.4093527)</data>
+      <data key="d21">52.2589438</data>
+      <data key="d22">67.4093527</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Тошвиска">
+      <data key="d1">23</data>
+      <data key="d2">n1183155149</data>
+      <data key="d3">69</data>
+      <data key="d4">Тошвиска</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.300079 67.122078)</data>
+      <data key="d21">52.300079</data>
+      <data key="d22">67.122078</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Щелино">
+      <data key="d1">5</data>
+      <data key="d2">n606607725</data>
+      <data key="d3">104</data>
+      <data key="d4">Щелино</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.034192100000006 67.1215889)</data>
+      <data key="d21">52.034192100000006</data>
+      <data key="d22">67.1215889</data>
+      <data key="d23">    temperature
+0         -18.1
+1         -13.3
+2          -6.8
+3          -2.5
+4           5.5
+..          ...
+67         11.1
+68          7.3
+69          0.4
+70         -6.1
+71         -9.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Вижас">
+      <data key="d1">19</data>
+      <data key="d2">n1157933665</data>
+      <data key="d3">75</data>
+      <data key="d4">Вижас</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (45.8900968 66.64082619999999)</data>
+      <data key="d21">45.8900968</data>
+      <data key="d22">66.64082619999999</data>
+      <data key="d23">    temperature
+0         -17.1
+1         -12.4
+2          -6.0
+3          -2.1
+4           6.4
+..          ...
+67         11.9
+68          8.0
+69          1.5
+70         -3.9
+71         -7.0
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Волоковая">
+      <data key="d1">43</data>
+      <data key="d2">n1776338473</data>
+      <data key="d3">105</data>
+      <data key="d4">Волоковая</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (48.2428743 66.48328919999999)</data>
+      <data key="d21">48.2428743</data>
+      <data key="d22">66.48328919999999</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Верхняя Пеша">
+      <data key="d1">42</data>
+      <data key="d2">n1776338469</data>
+      <data key="d3">134</data>
+      <data key="d4">Верхняя Пеша</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (47.963309 66.6099247)</data>
+      <data key="d21">47.963309</data>
+      <data key="d22">66.6099247</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Волонга">
+      <data key="d1">34</data>
+      <data key="d2">n1767904568</data>
+      <data key="d3">35</data>
+      <data key="d4">Волонга</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">1</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (47.775188 67.131996)</data>
+      <data key="d21">47.775188</data>
+      <data key="d22">67.131996</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Белушье">
+      <data key="d1">32</data>
+      <data key="d2">n1743988971</data>
+      <data key="d3">50</data>
+      <data key="d4">Белушье</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (47.613507000000006 66.8915617)</data>
+      <data key="d21">47.613507000000006</data>
+      <data key="d22">66.8915617</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Воркута">
+      <data key="d1">53</data>
+      <data key="d2">None</data>
+      <data key="d3">None</data>
+      <data key="d4">Воркута</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">11</data>
+      <data key="d12">3</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">45</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (64.0499076075564 67.50159290208941)</data>
+      <data key="d21">64.0499076075564</data>
+      <data key="d22">67.50159290208941</data>
+      <data key="d23">    temperature
+0         -19.1
+1         -14.8
+2          -9.2
+3          -4.1
+4           1.7
+..          ...
+67          8.4
+68          6.1
+69         -0.8
+70         -7.9
+71        -12.0
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71      winter
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Амдерма">
+      <data key="d1">50</data>
+      <data key="d2">n11901897824</data>
+      <data key="d3">444</data>
+      <data key="d4">Амдерма</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (61.6580524 69.7609506)</data>
+      <data key="d21">61.6580524</data>
+      <data key="d22">69.7609506</data>
+      <data key="d23">    temperature
+0         -17.0
+1         -14.1
+2          -8.4
+3          -4.4
+4           1.8
+..          ...
+67          8.0
+68          6.3
+69          1.5
+70         -2.8
+71         -7.7
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Каратайка">
+      <data key="d1">40</data>
+      <data key="d2">n1774590189</data>
+      <data key="d3">544</data>
+      <data key="d4">Каратайка</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">5</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (61.409578200000006 68.7608577)</data>
+      <data key="d21">61.409578200000006</data>
+      <data key="d22">68.7608577</data>
+      <data key="d23">    temperature
+0         -20.0
+1         -15.3
+2          -9.1
+3          -3.6
+4           2.2
+..          ...
+67          8.8
+68          6.3
+69         -0.7
+70         -8.1
+71        -12.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71      winter
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Усть-Кара">
+      <data key="d1">3</data>
+      <data key="d2">n458077350</data>
+      <data key="d3">574</data>
+      <data key="d4">Усть-Кара</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">4</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (64.921604 69.2438861)</data>
+      <data key="d21">64.921604</data>
+      <data key="d22">69.2438861</data>
+      <data key="d23">    temperature
+0         -16.0
+1         -13.4
+2          -8.3
+3          -4.6
+4           1.6
+..          ...
+67          8.0
+68          6.5
+69          1.9
+70         -2.1
+71         -6.4
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Выучейский">
+      <data key="d1">41</data>
+      <data key="d2">n1774595217</data>
+      <data key="d3">167</data>
+      <data key="d4">Выучейский</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">0</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (49.05576700000001 67.569054)</data>
+      <data key="d21">49.05576700000001</data>
+      <data key="d22">67.569054</data>
+      <data key="d23">    temperature
+0         -16.5
+1         -13.5
+2          -6.9
+3          -2.9
+4           4.8
+..          ...
+67          9.9
+68          7.4
+69          2.1
+70         -1.8
+71         -6.5
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Искателей">
+      <data key="d1">13</data>
+      <data key="d2">n1016276147</data>
+      <data key="d3">7179</data>
+      <data key="d4">Искателей</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">3.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">6</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">18</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (53.129215 67.67623900000001)</data>
+      <data key="d21">53.129215</data>
+      <data key="d22">67.67623900000001</data>
+      <data key="d23">    temperature
+0         -18.0
+1         -13.8
+2          -7.4
+3          -3.1
+4           4.3
+..          ...
+67          9.3
+68          6.9
+69          1.1
+70         -4.0
+71         -8.8
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Устье">
+      <data key="d1">28</data>
+      <data key="d2">n1509238557</data>
+      <data key="d3">22</data>
+      <data key="d4">Устье</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">1</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.5914346 67.5673718)</data>
+      <data key="d21">52.5914346</data>
+      <data key="d22">67.5673718</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Кия">
+      <data key="d1">37</data>
+      <data key="d2">n1773701979</data>
+      <data key="d3">63</data>
+      <data key="d4">Кия</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (44.0897243 67.6527983)</data>
+      <data key="d21">44.0897243</data>
+      <data key="d22">67.6527983</data>
+      <data key="d23">    temperature
+0         -12.0
+1         -11.2
+2          -5.5
+3          -1.8
+4           5.5
+..          ...
+67         10.6
+68          7.8
+69          2.7
+70         -0.3
+71         -3.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Красное">
+      <data key="d1">44</data>
+      <data key="d2">n1827600917</data>
+      <data key="d3">1519</data>
+      <data key="d4">Красное</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">10</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (53.6017497 67.8342979)</data>
+      <data key="d21">53.6017497</data>
+      <data key="d22">67.8342979</data>
+      <data key="d23">    temperature
+0         -18.0
+1         -13.8
+2          -7.4
+3          -3.1
+4           4.3
+..          ...
+67          9.3
+68          6.9
+69          1.1
+70         -4.0
+71         -8.8
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Тельвиска">
+      <data key="d1">10</data>
+      <data key="d2">n606607750</data>
+      <data key="d3">454</data>
+      <data key="d4">Тельвиска</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (52.88630299999999 67.635986)</data>
+      <data key="d21">52.88630299999999</data>
+      <data key="d22">67.635986</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Хонгурей">
+      <data key="d1">8</data>
+      <data key="d2">n606607739</data>
+      <data key="d3">230</data>
+      <data key="d4">Хонгурей</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">3</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (51.95408390000001 67.5581067)</data>
+      <data key="d21">51.95408390000001</data>
+      <data key="d22">67.5581067</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Макарово">
+      <data key="d1">11</data>
+      <data key="d2">n606607754</data>
+      <data key="d3">206</data>
+      <data key="d4">Макарово</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+      <data key="d15">2</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (52.87645 67.684082)</data>
+      <data key="d21">52.87645</data>
+      <data key="d22">67.684082</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -13.8
+2          -7.2
+3          -3.0
+4           4.6
+..          ...
+67          9.5
+68          7.0
+69          1.4
+70         -3.0
+71         -8.1
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Бугрино">
+      <data key="d1">20</data>
+      <data key="d2">n1157933669</data>
+      <data key="d3">416</data>
+      <data key="d4">Бугрино</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">4</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (49.305454 68.78172299999999)</data>
+      <data key="d21">49.305454</data>
+      <data key="d22">68.78172299999999</data>
+      <data key="d23">    temperature
+0         -16.5
+1         -13.5
+2          -6.9
+3          -2.9
+4           4.8
+..          ...
+67          9.9
+68          7.4
+69          2.1
+70         -1.8
+71         -6.5
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Снопа">
+      <data key="d1">21</data>
+      <data key="d2">n1157933674</data>
+      <data key="d3">99</data>
+      <data key="d4">Снопа</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">1</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (47.016397 66.7402016)</data>
+      <data key="d21">47.016397</data>
+      <data key="d22">66.7402016</data>
+      <data key="d23">    temperature
+0         -17.4
+1         -12.8
+2          -6.2
+3          -2.4
+4           6.2
+..          ...
+67         11.7
+68          7.9
+69          1.2
+70         -4.4
+71         -7.6
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Хорей-Вер">
+      <data key="d1">38</data>
+      <data key="d2">n1774560254</data>
+      <data key="d3">739</data>
+      <data key="d4">Хорей-Вер</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">0</data>
+      <data key="d12">2</data>
+      <data key="d13">0</data>
+      <data key="d14">1</data>
+      <data key="d15">2</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (58.0500718 67.4228097)</data>
+      <data key="d21">58.0500718</data>
+      <data key="d22">67.4228097</data>
+      <data key="d23">    temperature
+0         -18.9
+1         -13.9
+2          -7.6
+3          -2.9
+4           4.1
+..          ...
+67         10.4
+68          7.1
+69         -0.2
+70         -8.4
+71        -10.7
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71      winter
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Мгла">
+      <data key="d1">15</data>
+      <data key="d2">n1067791042</data>
+      <data key="d3">20</data>
+      <data key="d4">Мгла</data>
+      <data key="d5">НАО</data>
+      <data key="d6">0.0</data>
+      <data key="d7">0.0</data>
+      <data key="d8">0</data>
+      <data key="d9">0</data>
+      <data key="d10">0</data>
+      <data key="d11">0</data>
+      <data key="d12">0</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+      <data key="d15">0</data>
+      <data key="d16">0</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (44.4493748 66.49772799999998)</data>
+      <data key="d21">44.4493748</data>
+      <data key="d22">66.49772799999998</data>
+      <data key="d23">    temperature
+0    -16.799999
+1    -12.200000
+2     -5.900000
+3     -1.800000
+4      6.500000
+..          ...
+67    12.000000
+68     8.100000
+69     1.700000
+70    -3.200000
+71    -6.700000
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4       summer
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Усинск">
+      <data key="d1">55</data>
+      <data key="d2">None</data>
+      <data key="d3">None</data>
+      <data key="d4">Усинск</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">3</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">55</data>
+      <data key="d16">1</data>
+      <data key="d17">1</data>
+      <data key="d18">1</data>
+      <data key="d19">1</data>
+      <data key="d20">POINT (57.51804973634203 65.98842093507425)</data>
+      <data key="d21">57.51804973634203</data>
+      <data key="d22">65.98842093507425</data>
+      <data key="d23">    temperature
+0         -18.0
+1         -13.9
+2          -7.1
+3          -2.9
+4           3.8
+..          ...
+67         10.9
+68          7.2
+69         -0.8
+70         -9.0
+71        -10.0
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71   midseason
+
+[72 rows x 1 columns]</data>
+    </node>
+    <node id="Харута">
+      <data key="d1">35</data>
+      <data key="d2">n1773591766</data>
+      <data key="d3">538</data>
+      <data key="d4">Харута</data>
+      <data key="d5">НАО</data>
+      <data key="d6">1.0</data>
+      <data key="d7">1.0</data>
+      <data key="d8">1</data>
+      <data key="d9">1</data>
+      <data key="d10">1</data>
+      <data key="d11">1</data>
+      <data key="d12">2</data>
+      <data key="d13">1</data>
+      <data key="d14">1</data>
+      <data key="d15">5</data>
+      <data key="d16">1</data>
+      <data key="d17">0</data>
+      <data key="d18">0</data>
+      <data key="d19">0</data>
+      <data key="d20">POINT (59.53033400000001 66.84037800000002)</data>
+      <data key="d21">59.53033400000001</data>
+      <data key="d22">66.84037800000002</data>
+      <data key="d23">    temperature
+0    -19.200001
+1    -14.400000
+2     -8.100000
+3     -2.900000
+4      3.300000
+..          ...
+67    10.300000
+68     7.000000
+69    -0.400000
+70    -8.900000
+71   -11.500000
+
+[72 rows x 1 columns]</data>
+      <data key="d24">   temperature
+0       winter
+1       winter
+2    midseason
+3    midseason
+4    midseason
+..         ...
+67      summer
+68      summer
+69   midseason
+70   midseason
+71      winter
+
+[72 rows x 1 columns]</data>
+    </node>
+    <edge source="Андег" target="Куя" id="0">
+      <data key="d25">0.75</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Андег" target="Нельмин-Нос" id="0">
+      <data key="d25">0.83</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Андег" target="Нарьян-Мар" id="0">
+      <data key="d25">0.8</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Куя" target="Андег" id="0">
+      <data key="d25">0.75</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Куя" target="Нельмин-Нос" id="0">
+      <data key="d25">1.67</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Куя" target="Нарьян-Мар" id="0">
+      <data key="d25">0.69</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нельмин-Нос" target="Андег" id="0">
+      <data key="d25">0.83</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нельмин-Нос" target="Куя" id="0">
+      <data key="d25">1.67</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нельмин-Нос" target="Нарьян-Мар" id="0">
+      <data key="d25">1.08</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нельмин-Нос" target="Оксино" id="0">
+      <data key="d25">0.31</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Индига" id="0">
+      <data key="d25">4.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Мезень" id="0">
+      <data key="d25">7.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Архангельск" target="Нарьян-Мар" id="0">
+      <data key="d25">46.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Архангельск" target="Несь" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Нижняя Пеша" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Ома" id="0">
+      <data key="d25">2.17</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Харьягинский" id="0">
+      <data key="d25">36.6</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Архангельск" target="Чижа" id="0">
+      <data key="d25">2.33</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Шойна" id="0">
+      <data key="d25">3.08</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Архангельск" target="Красное" id="0">
+      <data key="d25">44.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Индига" target="Архангельск" id="0">
+      <data key="d25">4.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Индига" target="Вижас" id="0">
+      <data key="d25">0.94</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Индига" target="Выучейский" id="0">
+      <data key="d25">0.57</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Индига" target="Мезень" id="0">
+      <data key="d25">12.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Индига" target="Нарьян-Мар" id="0">
+      <data key="d25">1.33</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Индига" target="Несь" id="0">
+      <data key="d25">1.2</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Индига" target="Нижняя Пеша" id="0">
+      <data key="d25">0.58</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Индига" target="Ома" id="0">
+      <data key="d25">4.67</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Индига" target="Чижа" id="0">
+      <data key="d25">1.29</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Мезень" target="Архангельск" id="0">
+      <data key="d25">7.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Мезень" target="Вижас" id="0">
+      <data key="d25">6.47</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Мезень" target="Индига" id="0">
+      <data key="d25">12.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Мезень" target="Несь" id="0">
+      <data key="d25">4.65</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Мезень" target="Нижняя Пеша" id="0">
+      <data key="d25">9.23</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Мезень" target="Ома" id="0">
+      <data key="d25">7.33</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Мезень" target="Нарьян-Мар" id="0">
+      <data key="d25">59.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Архангельск" id="0">
+      <data key="d25">46.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Амдерма" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Андег" id="0">
+      <data key="d25">0.8</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Бугрино" id="0">
+      <data key="d25">1.01</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Великовисочное" id="0">
+      <data key="d25">1.93</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Вижас" id="0">
+      <data key="d25">2.22</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Индига" id="0">
+      <data key="d25">1.33</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Искателей" id="0">
+      <data key="d25">0.16</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Каменка" id="0">
+      <data key="d25">3.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Каратайка" id="0">
+      <data key="d25">1.84</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Коткино" id="0">
+      <data key="d25">5.13</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Красное" id="0">
+      <data key="d25">1.23</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Куя" id="0">
+      <data key="d25">0.69</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Лабожское" id="0">
+      <data key="d25">1.68</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Макарово" id="0">
+      <data key="d25">0.4</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Мезень" id="0">
+      <data key="d25">59.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Нельмин-Нос" id="0">
+      <data key="d25">1.08</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Несь" id="0">
+      <data key="d25">2.54</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Нижняя Пеша" id="0">
+      <data key="d25">1.27</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Оксино" id="0">
+      <data key="d25">1.59</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Ома" id="0">
+      <data key="d25">1.83</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Пылемец" id="0">
+      <data key="d25">1.21</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Снопа" id="0">
+      <data key="d25">1.95</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Тельвиска" id="0">
+      <data key="d25">0.35</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Тошвиска" id="0">
+      <data key="d25">5.92</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Усть-Кара" id="0">
+      <data key="d25">3.45</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Устье" id="0">
+      <data key="d25">0.9</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Харьягинский" id="0">
+      <data key="d25">4.88</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Хонгурей" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Хорей-Вер" id="0">
+      <data key="d25">1.06</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Чижа" id="0">
+      <data key="d25">2.58</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Шойна" id="0">
+      <data key="d25">2.52</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нарьян-Мар" target="Щелино" id="0">
+      <data key="d25">2.8</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Несь" target="Архангельск" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Несь" target="Мезень" id="0">
+      <data key="d25">4.65</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Несь" target="Нарьян-Мар" id="0">
+      <data key="d25">2.54</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Несь" target="Вижас" id="0">
+      <data key="d25">2.48</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Несь" target="Индига" id="0">
+      <data key="d25">1.2</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Несь" target="Мгла" id="0">
+      <data key="d25">0.59</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Несь" target="Ома" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Несь" target="Чижа" id="0">
+      <data key="d25">0.25</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Архангельск" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Мезень" id="0">
+      <data key="d25">9.23</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Нарьян-Мар" id="0">
+      <data key="d25">1.27</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Верхняя Пеша" id="0">
+      <data key="d25">1.14</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Вижас" id="0">
+      <data key="d25">0.42</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Выучейский" id="0">
+      <data key="d25">0.57</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Индига" id="0">
+      <data key="d25">0.58</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Чижа" id="0">
+      <data key="d25">0.78</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Нижняя Пеша" target="Ома" id="0">
+      <data key="d25">0.27</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Ома" target="Архангельск" id="0">
+      <data key="d25">2.17</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Ома" target="Мезень" id="0">
+      <data key="d25">7.33</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Ома" target="Нарьян-Мар" id="0">
+      <data key="d25">1.83</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Ома" target="Несь" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Ома" target="Вижас" id="0">
+      <data key="d25">1.54</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Ома" target="Индига" id="0">
+      <data key="d25">4.67</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Ома" target="Нижняя Пеша" id="0">
+      <data key="d25">0.27</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Ома" target="Снопа" id="0">
+      <data key="d25">0.12</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Ома" target="Чижа" id="0">
+      <data key="d25">0.53</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Харьягинский" target="Архангельск" id="0">
+      <data key="d25">36.6</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Харьягинский" target="Искателей" id="0">
+      <data key="d25">4.85</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Харьягинский" target="Красное" id="0">
+      <data key="d25">5.18</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Харьягинский" target="Нарьян-Мар" id="0">
+      <data key="d25">4.88</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Чижа" target="Архангельск" id="0">
+      <data key="d25">2.33</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Вижас" id="0">
+      <data key="d25">0.42</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Кия" id="0">
+      <data key="d25">0.32</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Нарьян-Мар" id="0">
+      <data key="d25">2.58</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Несь" id="0">
+      <data key="d25">0.25</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Нижняя Пеша" id="0">
+      <data key="d25">0.78</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Ома" id="0">
+      <data key="d25">0.53</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Индига" id="0">
+      <data key="d25">1.29</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Чижа" target="Шойна" id="0">
+      <data key="d25">0.44</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Шойна" target="Архангельск" id="0">
+      <data key="d25">3.08</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Шойна" target="Кия" id="0">
+      <data key="d25">0.13</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Шойна" target="Нарьян-Мар" id="0">
+      <data key="d25">2.52</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Шойна" target="Чижа" id="0">
+      <data key="d25">0.44</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Великовисочное" target="Каменка" id="0">
+      <data key="d25">1.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Коткино" id="0">
+      <data key="d25">2.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Лабожское" id="0">
+      <data key="d25">0.28</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Оксино" id="0">
+      <data key="d25">1.03</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Пылемец" id="0">
+      <data key="d25">0.3</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Тошвиска" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Великовисочное" target="Щелино" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Макарово" id="0">
+      <data key="d25">4.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Великовисочное" target="Нарьян-Мар" id="0">
+      <data key="d25">1.93</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Великовисочное" id="0">
+      <data key="d25">1.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Лабожское" id="0">
+      <data key="d25">1.8</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Тошвиска" id="0">
+      <data key="d25">2.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Макарово" id="0">
+      <data key="d25">2.83</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Нарьян-Мар" id="0">
+      <data key="d25">3.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Оксино" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Каменка" target="Хонгурей" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Коткино" target="Великовисочное" id="0">
+      <data key="d25">2.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Коткино" target="Лабожское" id="0">
+      <data key="d25">2.7</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Коткино" target="Нарьян-Мар" id="0">
+      <data key="d25">5.13</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Коткино" target="Оксино" id="0">
+      <data key="d25">4.58</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Коткино" target="Пылемец" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Коткино" target="Щелино" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Великовисочное" id="0">
+      <data key="d25">0.28</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Каменка" id="0">
+      <data key="d25">1.8</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Коткино" id="0">
+      <data key="d25">2.7</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Пылемец" id="0">
+      <data key="d25">15.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Хонгурей" id="0">
+      <data key="d25">2.17</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Щелино" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Лабожское" target="Макарово" id="0">
+      <data key="d25">4.3</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Нарьян-Мар" id="0">
+      <data key="d25">1.68</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Лабожское" target="Оксино" id="0">
+      <data key="d25">0.78</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Великовисочное" id="0">
+      <data key="d25">1.03</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Нарьян-Мар" id="0">
+      <data key="d25">1.59</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Оксино" target="Каменка" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Коткино" id="0">
+      <data key="d25">4.58</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Лабожское" id="0">
+      <data key="d25">0.78</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Макарово" id="0">
+      <data key="d25">0.69</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Нельмин-Нос" id="0">
+      <data key="d25">0.31</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Оксино" target="Пылемец" id="0">
+      <data key="d25">0.2</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Тошвиска" id="0">
+      <data key="d25">3.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Оксино" target="Хонгурей" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Оксино" target="Щелино" id="0">
+      <data key="d25">1.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Пылемец" target="Великовисочное" id="0">
+      <data key="d25">0.3</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Пылемец" target="Искателей" id="0">
+      <data key="d25">2.26</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Пылемец" target="Красное" id="0">
+      <data key="d25">2.78</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Пылемец" target="Лабожское" id="0">
+      <data key="d25">15.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Пылемец" target="Нарьян-Мар" id="0">
+      <data key="d25">1.21</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Пылемец" target="Оксино" id="0">
+      <data key="d25">0.2</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Пылемец" target="Коткино" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Пылемец" target="Тельвиска" id="0">
+      <data key="d25">0.86</data>
+      <data key="d26">car_warm</data>
+    </edge>
+    <edge source="Пылемец" target="Устье" id="0">
+      <data key="d25">1.2</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Пылемец" target="Щелино" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Тошвиска" target="Великовисочное" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Тошвиска" target="Каменка" id="0">
+      <data key="d25">2.42</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Тошвиска" target="Макарово" id="0">
+      <data key="d25">5.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Тошвиска" target="Нарьян-Мар" id="0">
+      <data key="d25">5.92</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Тошвиска" target="Оксино" id="0">
+      <data key="d25">3.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Щелино" target="Великовисочное" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Щелино" target="Лабожское" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Щелино" target="Нарьян-Мар" id="0">
+      <data key="d25">2.8</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Щелино" target="Оксино" id="0">
+      <data key="d25">1.5</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Щелино" target="Пылемец" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Щелино" target="Коткино" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Вижас" target="Индига" id="0">
+      <data key="d25">0.94</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Вижас" target="Чижа" id="0">
+      <data key="d25">0.42</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Вижас" target="Мезень" id="0">
+      <data key="d25">6.47</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Вижас" target="Нарьян-Мар" id="0">
+      <data key="d25">2.22</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Вижас" target="Несь" id="0">
+      <data key="d25">2.48</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Вижас" target="Нижняя Пеша" id="0">
+      <data key="d25">0.42</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Вижас" target="Ома" id="0">
+      <data key="d25">1.54</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Волоковая" target="Верхняя Пеша" id="0">
+      <data key="d25">1.14</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Волоковая" target="Волонга" id="0">
+      <data key="d25">0.38</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Верхняя Пеша" target="Волоковая" id="0">
+      <data key="d25">1.14</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Верхняя Пеша" target="Нижняя Пеша" id="0">
+      <data key="d25">1.14</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Волонга" target="Волоковая" id="0">
+      <data key="d25">0.38</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Волонга" target="Белушье" id="0">
+      <data key="d25">0.14</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Белушье" target="Волонга" id="0">
+      <data key="d25">0.14</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Воркута" target="Амдерма" id="0">
+      <data key="d25">96.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Воркута" target="Каратайка" id="0">
+      <data key="d25">10.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Воркута" target="Усть-Кара" id="0">
+      <data key="d25">10.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Амдерма" target="Воркута" id="0">
+      <data key="d25">96.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Амдерма" target="Нарьян-Мар" id="0">
+      <data key="d25">2.0</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Амдерма" target="Усть-Кара" id="0">
+      <data key="d25">0.95</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Каратайка" target="Воркута" id="0">
+      <data key="d25">10.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Каратайка" target="Нарьян-Мар" id="0">
+      <data key="d25">1.84</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Каратайка" target="Усть-Кара" id="0">
+      <data key="d25">1.01</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Усть-Кара" target="Воркута" id="0">
+      <data key="d25">10.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Усть-Кара" target="Нарьян-Мар" id="0">
+      <data key="d25">3.45</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Усть-Кара" target="Амдерма" id="0">
+      <data key="d25">0.95</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Усть-Кара" target="Каратайка" id="0">
+      <data key="d25">1.01</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Выучейский" target="Индига" id="0">
+      <data key="d25">0.57</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Выучейский" target="Нижняя Пеша" id="0">
+      <data key="d25">0.57</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Искателей" target="Пылемец" id="0">
+      <data key="d25">2.26</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Искателей" target="Устье" id="0">
+      <data key="d25">1.06</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Искателей" target="Харьягинский" id="0">
+      <data key="d25">4.85</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Искателей" target="Красное" id="0">
+      <data key="d25">1.07</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Искателей" target="Нарьян-Мар" id="0">
+      <data key="d25">0.16</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Искателей" target="Тельвиска" id="0">
+      <data key="d25">0.51</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Искателей" target="Усинск" id="0">
+      <data key="d25">8.75</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Устье" target="Искателей" id="0">
+      <data key="d25">1.06</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Устье" target="Нарьян-Мар" id="0">
+      <data key="d25">0.9</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Устье" target="Пылемец" id="0">
+      <data key="d25">1.2</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Устье" target="Тельвиска" id="0">
+      <data key="d25">0.55</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Кия" target="Чижа" id="0">
+      <data key="d25">0.32</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Кия" target="Шойна" id="0">
+      <data key="d25">0.13</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Красное" target="Архангельск" id="0">
+      <data key="d25">44.0</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Красное" target="Искателей" id="0">
+      <data key="d25">1.07</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Красное" target="Пылемец" id="0">
+      <data key="d25">2.78</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Красное" target="Тельвиска" id="0">
+      <data key="d25">1.58</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Красное" target="Харьягинский" id="0">
+      <data key="d25">5.18</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Красное" target="Нарьян-Мар" id="0">
+      <data key="d25">1.23</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Тельвиска" target="Красное" id="0">
+      <data key="d25">1.58</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Тельвиска" target="Нарьян-Мар" id="0">
+      <data key="d25">0.35</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Тельвиска" target="Пылемец" id="0">
+      <data key="d25">0.86</data>
+      <data key="d26">car_warm</data>
+    </edge>
+    <edge source="Тельвиска" target="Искателей" id="0">
+      <data key="d25">0.51</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Тельвиска" target="Устье" id="0">
+      <data key="d25">0.55</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Хонгурей" target="Лабожское" id="0">
+      <data key="d25">2.17</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Хонгурей" target="Макарово" id="0">
+      <data key="d25">2.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Хонгурей" target="Нарьян-Мар" id="0">
+      <data key="d25">3.0</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Хонгурей" target="Оксино" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Хонгурей" target="Каменка" id="0">
+      <data key="d25">1.0</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Макарово" target="Великовисочное" id="0">
+      <data key="d25">4.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Макарово" target="Каменка" id="0">
+      <data key="d25">2.83</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Макарово" target="Лабожское" id="0">
+      <data key="d25">4.3</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Макарово" target="Тошвиска" id="0">
+      <data key="d25">5.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Макарово" target="Хонгурей" id="0">
+      <data key="d25">2.33</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Макарово" target="Нарьян-Мар" id="0">
+      <data key="d25">0.4</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Макарово" target="Оксино" id="0">
+      <data key="d25">0.69</data>
+      <data key="d26">water_boat</data>
+    </edge>
+    <edge source="Бугрино" target="Нарьян-Мар" id="0">
+      <data key="d25">1.01</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Снопа" target="Нарьян-Мар" id="0">
+      <data key="d25">1.95</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Снопа" target="Ома" id="0">
+      <data key="d25">0.12</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Хорей-Вер" target="Нарьян-Мар" id="0">
+      <data key="d25">1.06</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Хорей-Вер" target="Харута" id="0">
+      <data key="d25">0.63</data>
+      <data key="d26">plane</data>
+    </edge>
+    <edge source="Мгла" target="Несь" id="0">
+      <data key="d25">0.59</data>
+      <data key="d26">winter_tr</data>
+    </edge>
+    <edge source="Усинск" target="Искателей" id="0">
+      <data key="d25">8.75</data>
+      <data key="d26">car_cold</data>
+    </edge>
+    <edge source="Харута" target="Хорей-Вер" id="0">
+      <data key="d25">0.63</data>
+      <data key="d26">plane</data>
+    </edge>
+    <data key="d0">GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],MEMBER["World Geodetic System 1984 (G2296)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</data>
+  </graph>
+</graphml>
