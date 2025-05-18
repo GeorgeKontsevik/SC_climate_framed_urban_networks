@@ -43,13 +43,12 @@
 { "type": "Feature", "properties": { "id": 37, "name": "Совполье", "population": 39 }, "geometry": { "type": "Point", "coordinates": [ 43.93122, 65.2937 ] } },
 { "type": "Feature", "properties": { "id": 38, "name": "Соколово", "population": 10 }, "geometry": { "type": "Point", "coordinates": [ 43.96878, 65.28748 ] } },
 { "type": "Feature", "properties": { "id": 39, "name": "Сояна", "population": 229 }, "geometry": { "type": "Point", "coordinates": [ 43.38825, 65.77773 ] } },
-{ "type": "Feature", "properties": { "id": 40, "name": "Сёмжа", "population": 5 }, "geometry": { "type": "Point", "coordinates": [ 44.1177, 66.1485 ] } },
-{ "type": "Feature", "properties": { "id": 41, "name": "Тимощелье", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 44.42839, 65.6336 ] } },
-{ "type": "Feature", "properties": { "id": 42, "name": "Усть-Няфта", "population": 1 }, "geometry": { "type": "Point", "coordinates": [ 44.7507, 65.6731 ] } },
-{ "type": "Feature", "properties": { "id": 43, "name": "Усть-Пеза", "population": 6 }, "geometry": { "type": "Point", "coordinates": [ 44.6663, 65.64413 ] } },
-{ "type": "Feature", "properties": { "id": 44, "name": "Целегора", "population": 142 }, "geometry": { "type": "Point", "coordinates": [ 45.14212, 65.32822 ] } },
-{ "type": "Feature", "properties": { "id": 45, "name": "Черсова", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 45.10836, 65.35836 ] } },
-{ "type": "Feature", "properties": { "id": 46, "name": "Чеца", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 44.02569, 65.99885 ] } },
-{ "type": "Feature", "properties": { "id": 47, "name": "Чижгора", "population": 116 }, "geometry": { "type": "Point", "coordinates": [ 43.94099, 65.28783 ] } }
+{ "type": "Feature", "properties": { "id": 40, "name": "Тимощелье", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 44.42839, 65.6336 ] } },
+{ "type": "Feature", "properties": { "id": 41, "name": "Усть-Няфта", "population": 1 }, "geometry": { "type": "Point", "coordinates": [ 44.7507, 65.6731 ] } },
+{ "type": "Feature", "properties": { "id": 42, "name": "Усть-Пеза", "population": 6 }, "geometry": { "type": "Point", "coordinates": [ 44.6663, 65.64413 ] } },
+{ "type": "Feature", "properties": { "id": 43, "name": "Целегора", "population": 142 }, "geometry": { "type": "Point", "coordinates": [ 45.14212, 65.32822 ] } },
+{ "type": "Feature", "properties": { "id": 44, "name": "Черсова", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 45.10836, 65.35836 ] } },
+{ "type": "Feature", "properties": { "id": 45, "name": "Чеца", "population": 0 }, "geometry": { "type": "Point", "coordinates": [ 44.02569, 65.99885 ] } },
+{ "type": "Feature", "properties": { "id": 46, "name": "Чижгора", "population": 116 }, "geometry": { "type": "Point", "coordinates": [ 43.94099, 65.28783 ] } }
 ]
 }

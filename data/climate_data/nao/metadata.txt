@@ -1,0 +1,27 @@
+<xarray.Dataset> Size: 27MB
+Dimensions:    (time: 300, bnds: 2, lat: 120, lon: 180, plev: 1)
+Coordinates:
+  * time       (time) object 2kB 2025-01-16 12:00:00 ... 2049-12-16 12:00:00
+  * plev       (plev) float64 8B 1e+05
+  * lat        (lat) float64 960B -89.25 -87.75 -86.25 ... 86.25 87.75 89.25
+  * lon        (lon) float64 1kB -178.0 -176.0 -174.0 ... 176.0 178.0 180.0
+Dimensions without coordinates: bnds
+Data variables:
+    time_bnds  (time, bnds) object 5kB ...
+    lat_bnds   (time, lat, bnds) float64 576kB ...
+    lon_bnds   (time, lon, bnds) float64 864kB ...
+    ta         (time, plev, lat, lon) float32 26MB ...
+Attributes: (12/47)
+    Conventions:            CF-1.7 CMIP-6.2
+    activity_id:            ScenarioMIP
+    branch_method:          standard
+    branch_time_in_child:   60225.0
+    branch_time_in_parent:  60225.0
+    contact:                Evgeny Volodin (volodinev@gmail.com)
+    ...                     ...
+    title:                  INM-CM5-0 output prepared for CMIP6
+    tracking_id:            hdl:21.14100/db6b381d-79ca-45be-8145-ce9e7f09bb68
+    variable_id:            ta
+    variant_label:          r1i1p1f1
+    license:                CMIP6 model data produced by Lawrence Livermore P...
+    cmor_version:           3.4.0
