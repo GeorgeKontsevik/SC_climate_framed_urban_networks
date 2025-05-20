@@ -201,7 +201,7 @@ def calculate_graph_provision(G, service_radius, const_base_demand, service_name
                         G_with_assignments[u][v]['service_flows'] = G_with_assignments[u][v].get('service_flows', 0) + flow
                         
                 except nx.NetworkXNoPath:
-                    print(f"Warning: No path between service node {i} and demand node {j}")
+                    # print(f"Warning: No path between service node {i} and demand node {j}")
                     continue
     # print(result)
     # Add provision values to graph nodes
