@@ -3,6 +3,7 @@
 
 # SEASONAL MULTILAYER SERVICE NETWOKR: ❄️ARCTIC
 
+Open access paper: https://link.springer.com/article/10.1007/s41109-026-00783-6
 
 <table>
   <tr>
